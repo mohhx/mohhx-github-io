@@ -534,17 +534,17 @@ form .send-btn:hover{
         --h2-font: 1.7rem;
     }
 
-    .services{
-        
+     .services{
+        width: 400px;
         max-width: 200px;
         display: flex;
         padding: 50px;
     }
     .box{
-        margin-top: 40px;
-        margin-left:-145%;
+        margin-top: 70px;
+        margin-left:-220%;
         width: 350px;
-
+        height: 400px;
     }
     .about-img img{
         text-align: center;
